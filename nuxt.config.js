@@ -45,7 +45,7 @@ module.exports = {
     'bootstrap-vue/nuxt',
     // Doc: https://axios.nuxtjs.org/usage
     //'@nuxtjs/axios',
-    ['@nuxtjs/axios', { baseURL: 'https://donationplanapp.herokuapp.com' }],
+    ['@nuxtjs/axios', { baseURL: 'https://donationplansapp.herokuapp.com' }],
     '@nuxtjs/auth',
   ],
 
